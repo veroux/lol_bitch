@@ -1,0 +1,34 @@
+produit{
+	display:block;
+}
+nom,nombre,refCommande{
+	display:inline;
+}
+nom{
+	font-weight:bold;
+	color:green;
+	font-variant:small-caps;
+	text-decoration:underline;
+}
+nombre{
+	font-style : italic;
+}
+refCommande{
+	color:gray;
+}
+
+nom:after{
+	content:":";
+}
+nombre:before{
+	content:"quantite commandé:";
+}
+nombre:after{
+	content:" ";
+}
+refCommande:before{
+	content: "Référence :";
+}
+refCommande:after{
+	content:"(Commande passée le"attr(date)")";
+}

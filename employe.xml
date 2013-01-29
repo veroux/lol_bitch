@@ -1,0 +1,56 @@
+<?xml version = "1.0"?>
+<employe>
+	<prenom> Véronique</prenom>
+	<nom> bla bla bla</nom>
+	<age>21</age>
+	<adresse> 39486 rue bla bla bla</adresse>
+	<telephone> 928-287-3478</telephone>
+	<situationfamiliale>célibataire</situationfamiliale>
+	<titre> secretaire</titre>
+	<salaire> 80$/heure</salaire>
+	<nombreHeure>40</nombreHeure>
+</employe>
+<employe>
+	<prenom> Marc-André</prenom>
+	<nom> bla bla bla</nom>
+	<age>35</age>
+	<adresse> 846 rue Bloup</adresse>
+	<telephone> 928-287-3478</telephone>
+	<situationfamiliale>veuf</situationfamiliale>
+	<titre> Videur de poubelle</titre>
+	<salaire> 0.50$/heure</salaire>
+	<nombreHeure>0.5</nombreHeure>
+</employe>
+<employe>
+	<prenom> Tommy</prenom>
+	<nom> bla bla bla</nom>
+	<age>30</age>
+	<adresse> 654 rue hahaha</adresse>
+	<telephone> 928-287-3478</telephone>
+	<situationfamiliale>couple</situationfamiliale>
+	<titre> infirmier</titre>
+	<salaire> 30$/heure</salaire>
+	<nombreHeure>80</nombreHeure>
+</employe>
+<employe>
+	<prenom> andreanne</prenom>
+	<nom> bla bla bla</nom>
+	<age>25</age>
+	<adresse> 654 rue hahaha</adresse>
+	<telephone> 928-287-3478</telephone>
+	<situationfamiliale>marier</situationfamiliale>
+	<titre> infirmier</titre>
+	<salaire> 35$/heure</salaire>
+	<nombreHeure>60</nombreHeure>
+</employe>
+<employe>
+	<prenom> felix</prenom>
+	<nom> bla bla bla</nom>
+	<age>60</age>
+	<adresse> 654 rue hahaha</adresse>
+	<telephone> 928-287-3478</telephone>
+	<situationfamiliale>celibataire</situationfamiliale>
+	<titre> pêtre</titre>
+	<salaire> 5$/heure</salaire>
+	<nombreHeure>180</nombreHeure>
+</employe>

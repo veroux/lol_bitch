@@ -1,0 +1,47 @@
+visibilité des membres d'une classe
+
+class ... 
+{
+	private int a;
+	public int b;
+	
+	public tripoteA(int a){
+		 a= a+5;
+	}
+	}
+	
+le(s) constructeur(s):
+	une fonction appelée par new à l'instanciation.
+	Elle existe par défaut en "virtuel".
+	Sert a rendre la classe utilisable le plus tot possible...
+	Sert à initialiser les variables(attributs) avec des valeurs " raisonnables"
+	
+	ex: 
+	class Client{
+		private String nom; 
+		private int numero;
+		public void Client(){
+			nom = "***";
+			numero = "";
+		}
+		public void Client(String a, int b){
+			nom = a;
+			numero = b;
+		}
+	
+	
+	}
+	Comment ça marche?
+	ex: public class TestClient{
+		public static void main(String[] args){
+			client jos = new client();
+			System.out.println(jos.getNom()+ " " + getNumero());
+								(***)				()
+			client louis = new client("louis", 44);
+			System.out.println(louis.getNom() + " " + louis.getNumero());
+								(louis)					(44)
+			
+		}
+	
+	}
+	

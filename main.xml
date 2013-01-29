@@ -1,0 +1,15 @@
+<?xml version="1,0" encoding ="UTF f-8"?>
+
+<linearLayout android:orientation = "vertical">
+	<linearLayout android:orientation = "horizontal">
+		<TextView android:text = "Nombre">
+		<EditText >
+	</linearLayout>
+	<button xmlns:android = "http://schemas.android.com/apk/res/android"
+		android:id="@+id/bouton"
+		android:text = "Calcluler le carre"
+		android:layout_width ="fill_parent"
+		android:layout_height = "fill_parent"/>
+	<TextView >
+</linearLayout>
+		
